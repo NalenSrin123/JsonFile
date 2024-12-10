@@ -1,0 +1,74 @@
+[
+    {
+        "id":1,
+        "name":"Salted Pecan Crunch Cold Brew",
+        "image":"https://globalassets.starbucks.com/digitalassets/products/bev/SaltedPecanCrunchColdFoamColdBrew.jpg?impolicy=1by1_wide_topcrop_630",
+        "price":3.99
+    },
+    {
+        "id":2,
+        "name":"Elphaba’s Cold Brew",
+        "image":"https://globalassets.starbucks.com/digitalassets/products/bev/ElphabasGreenElixer.jpg?impolicy=1by1_wide_topcrop_630",
+        "price":4.5
+    },
+    {
+        "id":3,
+        "name":"Pumpkin Cream Cold Brew",
+        "image":"https://globalassets.starbucks.com/digitalassets/products/bev/PumpkinCreamColdBrew.jpg?impolicy=1by1_wide_topcrop_630",
+        "price":4.3
+    },
+    {
+        "id":4,
+        "name":"Salted Caramel Cream Cold Brew",
+        "image":"https://globalassets.starbucks.com/digitalassets/products/bev/SBX20211029_SaltedCaramelCreamColdBrew.jpg?impolicy=1by1_wide_topcrop_630",
+        "price":3.7
+    },
+    {
+        "id":5,
+        "name":"Starbucks® Cold Brew Coffee",
+        "image":"https://globalassets.starbucks.com/digitalassets/products/bev/SBX20210611_ColdBrew.jpg?impolicy=1by1_wide_topcrop_630",
+        "price":3.99
+    },
+    {
+        "id":6,
+        "name":"Cran-Merry Drink",
+        "image":"https://globalassets.starbucks.com/digitalassets/products/bev/CranMerryDrink.jpg?impolicy=1by1_wide_topcrop_630",
+        "price":3
+    },
+    {
+        "id":7,
+        "name":"Cran-Merry Orange Refresher",
+        "image":"https://globalassets.starbucks.com/digitalassets/products/bev/CranMerryOrangeRefresher.jpg?impolicy=1by1_wide_topcrop_630",
+        "price":2.5
+    },
+    {
+        "id":8,
+        "name":"Pineapple Passionfruit Lemonade Refresher",
+        "image":"https://globalassets.starbucks.com/digitalassets/products/bev/SBX20211210_PineapplePassionfruitRefreshersLemonade.jpg?impolicy=1by1_wide_topcrop_630",
+        "price":3.5
+    },
+    {
+        "id":9,
+        "name":"Frozen Pineapple Passionfruit Lemonade Refresher",
+        "image":"https://globalassets.starbucks.com/digitalassets/products/bev/SBX20221216_FrozenPineapplePassionfruitRefresherLemonade.jpg?impolicy=1by1_wide_topcrop_630",
+        "price":3
+    },
+    {
+        "id":10,
+        "name":"Strawberry Açaí Lemonade Refresher",
+        "image":"https://globalassets.starbucks.com/digitalassets/products/bev/SBX20211210_StrawberryAcaiLemonadeRefreshers.jpg?impolicy=1by1_wide_topcrop_630",
+        "price":3.5
+    },
+    {
+        "id":11,
+        "name":"Mango Dragonfruit Lemonade Refresher",
+        "image":"https://globalassets.starbucks.com/digitalassets/products/bev/SBX20211210_MangoDragonfruitLemonadeRefreshers.jpg?impolicy=1by1_wide_topcrop_630",
+        "price":4
+    },
+    {
+        "id":12,
+        "name":"Caffè Americano",
+        "image":"https://globalassets.starbucks.com/digitalassets/products/bev/SBX20190617_CaffeAmericano.jpg?impolicy=1by1_wide_topcrop_630",
+        "price":3
+    }
+]
